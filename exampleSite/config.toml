@@ -1,7 +1,7 @@
 # default config
-baseURL = "https://examplesite.org"
+baseURL = "https://doodlekaur.life"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Doodle Kaur | Life is beautiful <3"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -60,18 +60,18 @@ home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "Have a look around, you'll know ;)"
 # Preloader
 preloader = true
 # search
 search = true
 # about author
-author = "Themefisher"
+author = "Sahibpreet Kaur"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "I’m finding myself."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
+#mobile = "+90 000 333 22"
+email = "thedoodlekaur@gmail.com"
 address = "6 rip carl Avenue CA 90733"
 # Contact Form Action
 contact_form_action = "#"
